@@ -39,7 +39,7 @@ pip install flask
 
 관리자는 회원이 아는 시스템을 작동 시켜주는 역할을 하는 시스템을 보여줍니다.
 
-![image](https://user-images.githubusercontent.com/104752580/231635882-c99bbd66-8fcb-45b4-9ddd-092c30d7cab1.png)
+![image](https://user-images.githubusercontent.com/104752580/231637066-3bb42b5e-cd83-418d-81dc-606466972ed4.png)
 
 # 3. 플로어 차트
 # 4. 시스템 블록도
