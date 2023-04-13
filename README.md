@@ -27,3 +27,5 @@
 pip install flask
 ```
 # 2. 유스케이스
+![image](https://user-images.githubusercontent.com/104752580/231623058-d068e6cf-53c9-423f-97b9-c26b643e862b.png)
+
