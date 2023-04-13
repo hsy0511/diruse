@@ -1,4 +1,6 @@
-# project
+# joykick sport 홈페이지 project (python)
+# 목차
+### 
 # project 0 (개발환경)
 ### 0-1. os whindow 10 사용
 ### 0-2. Visual Studio Code 1.77.3 버전 다운로드 받기
